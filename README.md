@@ -12,7 +12,7 @@ Adds a bunch of fun options for customizing the environment in multiplayer Beat 
 - Disable 1st place hologram (Also automatically enabled during Noodle Extensions, Mapping Extensions, and Vivify maps)
 
 # Install
-- Simply head to [releases](link) and download the zip.
+- Simply head to [releases](https://github.com/Minibattle/MultiplayerEnviornmentEditor/releases) and download the zip.
 - Drag the "MultiplayerEnvironmentEditor.dll" into your Beat Saber plugins folder
 - Enjoy!
 
