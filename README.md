@@ -10,6 +10,7 @@ Adds a bunch of fun options for customizing the environment in multiplayer Beat 
 - Change spacing between player platforms
 - Disable player movement restrictions
 - Disable 1st place hologram (Also automatically enabled during Noodle Extensions, Mapping Extensions, and Vivify maps)
+- All settings appear in the lobby, so they can be toggled to your liking on the fly
 
 # Always Active Features
 - Pausing the game will show the next couple of notes so that you still have a chance to recover if you mispress the pause button
@@ -24,4 +25,4 @@ Adds a bunch of fun options for customizing the environment in multiplayer Beat 
 <br>
 <br>
 <br>
-*Full disclosure, this mod is vibe-coded.
+*Full disclosure, this mod is entirely vibe-coded. Fully tested before uploading. Please report issues if you have any.
