@@ -1,0 +1,12 @@
+<bg xmlns="https://monkeymanatee.github.io/BSML-Docs/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://monkeymanatee.github.io/BSML-Docs/ https://raw.githubusercontent.com/monkeymanatee/BSML-Docs/gh-pages/BSMLSchema.xsd">
+  <vertical child-control-height="false" spacing="2" pad-top="2">
+    <toggle-setting text="Singleplayer Environment"
+                    hover-hint="Add a singleplayer environment to multiplayer songs (applies from the next song)"
+                    value="enabled" apply-on-change="true" />
+    <dropdown-list-setting text="Environment"
+                           hover-hint="Which singleplayer environment to use"
+                           value="environment" options="environment-options" apply-on-change="true" />
+  </vertical>
+</bg>

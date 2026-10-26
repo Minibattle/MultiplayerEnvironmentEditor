@@ -1,0 +1,7 @@
+C:\Users\mincr\Desktop\thing\bin\Debug\net472\MultiplayerEnvironmentEditor.dll
+C:\Users\mincr\Desktop\thing\bin\Debug\net472\MultiplayerEnvironmentEditor.pdb
+C:\Users\mincr\Desktop\thing\obj\Debug\net472\MultiplayerEnvironmentEditor.csproj.AssemblyReference.cache
+C:\Users\mincr\Desktop\thing\obj\Debug\net472\MultiplayerEnvironmentEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mincr\Desktop\thing\obj\Debug\net472\MultiplayerEnvironmentEditor.csproj.CoreCompileInputs.cache
+C:\Users\mincr\Desktop\thing\obj\Debug\net472\MultiplayerEnvironmentEditor.dll
+C:\Users\mincr\Desktop\thing\obj\Debug\net472\MultiplayerEnvironmentEditor.pdb

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "MultiplayerEnvironmentEditor",
+  "name": "MPEnviornment",
+  "author": "you",
+  "version": "1.0.0",
+  "description": "Plays multiplayer songs in the map's own singleplayer environment, keeping the other players and the leader hologram.",
+  "gameVersion": "1.40.8",
+  "dependsOn": {
+    "BSIPA": "^4.3.0",
+    "BeatSaberMarkupLanguage": "^1.12.0"
+  }
+}

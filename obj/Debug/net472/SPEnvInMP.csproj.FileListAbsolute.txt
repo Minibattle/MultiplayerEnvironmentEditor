@@ -1,0 +1,7 @@
+C:\Users\mincr\Desktop\thing\obj\Debug\net472\SPEnvInMP.csproj.AssemblyReference.cache
+C:\Users\mincr\Desktop\thing\obj\Debug\net472\SPEnvInMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mincr\Desktop\thing\obj\Debug\net472\SPEnvInMP.csproj.CoreCompileInputs.cache
+C:\Users\mincr\Desktop\thing\bin\Debug\net472\SPMPEnviornment.dll
+C:\Users\mincr\Desktop\thing\bin\Debug\net472\SPMPEnviornment.pdb
+C:\Users\mincr\Desktop\thing\obj\Debug\net472\SPMPEnviornment.dll
+C:\Users\mincr\Desktop\thing\obj\Debug\net472\SPMPEnviornment.pdb

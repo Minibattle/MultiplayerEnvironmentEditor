@@ -1,0 +1,26 @@
+<bg xmlns="https://monkeymanatee.github.io/BSML-Docs/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://monkeymanatee.github.io/BSML-Docs/ https://raw.githubusercontent.com/monkeymanatee/BSML-Docs/gh-pages/BSMLSchema.xsd">
+  <vertical child-control-height="false" spacing="2" pad-top="2">
+    <toggle-setting text="Singleplayer Environment"
+                    hover-hint="Use the map&apos;s own environment and colours during multiplayer songs"
+                    value="enabled" apply-on-change="true" />
+    <slider-setting id="spread-slider-menu" text="Player Spacing"
+                    hover-hint="How far out to the sides the other players sit (1 = the game&apos;s own spacing)"
+                    value="spread" min="1" max="10" increment="0.1" apply-on-change="true" />
+    <button text="Reset to Default" on-click="reset-spread"
+            hover-hint="Put the player spacing back to 2.50" />
+    <toggle-setting text="Hide Player Walls and Notes"
+                    hover-hint="Stop the other players&apos; notes and walls being drawn (automatic on Vivify, Noodle or Mapping Extensions maps)"
+                    value="hide-players" apply-on-change="true" />
+    <toggle-setting text="Hide Players Entirely"
+                    hover-hint="Make the other players and their platforms completely invisible"
+                    value="hide-players-fully" apply-on-change="true" />
+    <toggle-setting text="Show Hologram"
+                    hover-hint="Show the first-place player&apos;s hologram (hidden automatically on Vivify maps)"
+                    value="holograms" apply-on-change="true" />
+    <toggle-setting text="Vanilla Playspace Limits"
+                    hover-hint="Keep the game&apos;s normal limit on how far a player can move from their platform"
+                    value="vanilla-limits" apply-on-change="true" />
+  </vertical>
+</bg>
